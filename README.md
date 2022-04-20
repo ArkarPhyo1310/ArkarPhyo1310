@@ -2,7 +2,7 @@
 
 ## 👨 About 
 
-My name is Arkar Phyo. I'm a AI Engineer currently working at [Global Walkers](https://www.globalwalkers.co.jp/en/).
+My name is Arkar Phyo. I'm an AI Engineer currently working at [Global Walkers](https://www.globalwalkers.co.jp/en/).
 - 🔭 I’m currently working on Computer Vision projects.
 - 🌱 I’m currently learning about software development.
 
